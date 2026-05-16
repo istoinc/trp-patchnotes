@@ -6,4 +6,4 @@
 <size=150%> TESTING NOTES: </size>
 
 - There's about 20-30 min of gameplay
-- There's no gameplay around the church
+- The game ends well before you reach the church
