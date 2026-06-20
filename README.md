@@ -1,10 +1,8 @@
 <size=150%> DEVELOPER NOTES: </size>
-
-- You can fall off the map, so be careful around the edges!
+- Many of the art assets are placeholders. The main character is fairly complete (minus animations)
+- This is an extremely early demo, but the main loop is there. 
 
 
 <size=150%> TESTING NOTES: </size>
-
-- Please have one person record (720p @ 30pfs is best to keep file sizes small)
 - There's about 20-30 min of gameplay
-- The game ends well before you reach the church
+- The game ends well before you reach the church.
