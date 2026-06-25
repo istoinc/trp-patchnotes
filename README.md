@@ -12,4 +12,6 @@
     - We're trying to track down a bug with microphones sometimes not working
  
 
-
+<size=150%> HOW TO START: </size>
+1. Have one person "create" a lobby.
+2. Everyone else joins via the room code (Top right)
